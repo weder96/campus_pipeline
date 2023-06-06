@@ -76,6 +76,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>campus-pipeline</finalName>
 	</build>
-
 </project>
